@@ -1,7 +1,5 @@
 # Credit-Card-Validator
 
-Not to steal Credit Card details!!!
-
 **HOW IT WORKS**
 
 1. Add all the numbers in the odds postion from RIGHT to LEFT
